@@ -1,6 +1,4 @@
-### Edmundo Zamora and Alan Arce
-
-[https://axis-of-revolution.github.io/TweetyNet-Eco-Acoustic-Event-Detection/](https://axis-of-revolution.github.io/TweetyNet-Eco-Acoustic-Event-Detection/)
+### by Edmundo Zamora and Alan Arce
 
 ## Table of Contents
 
